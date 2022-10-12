@@ -1,6 +1,6 @@
 ---
 title: "R Notebook"
-output: html_notebook
+output: github_document
 ---
 git config --global user.email "drouanm@gmail.com.com"
 git config --global user.name "Marion"
